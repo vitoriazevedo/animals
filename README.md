@@ -13,9 +13,12 @@
   
     
  <body bgcolor="SpringGreen">                           
-        <h5 align=”right”>Colocar nome dos integrantes</h5>
+        <h6 align=”right”>Vitoria Azevedo</h6>
+        
+        <h6 align=”right”>Vitoria Azevedo </h6>
    
-       <h2 align=”left”> <b>Missão</h2><b>
+   
+   <h2 align=”left”> <b>Missão</h2><b>
        <h4 align="justify"> <p>Promover empoderamento das capacidades intelectuais através da <strong><b style=font-size:22px><font color="#008080"> programação </strong></font></b></font color> 
          e proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias</h4></p>
 
